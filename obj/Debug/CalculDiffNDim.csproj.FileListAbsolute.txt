@@ -1,0 +1,9 @@
+C:\Users\benja\source\repos\CalculDiffNDim\CalculDiffNDim\bin\Debug\CalculDiffNDim.exe.config
+C:\Users\benja\source\repos\CalculDiffNDim\CalculDiffNDim\bin\Debug\CalculDiffNDim.exe
+C:\Users\benja\source\repos\CalculDiffNDim\CalculDiffNDim\bin\Debug\CalculDiffNDim.pdb
+C:\Users\benja\source\repos\CalculDiffNDim\CalculDiffNDim\obj\Debug\CalculDiffNDim.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\CalculDiffNDim\CalculDiffNDim\obj\Debug\CalculDiffNDim.Properties.Resources.resources
+C:\Users\benja\source\repos\CalculDiffNDim\CalculDiffNDim\obj\Debug\CalculDiffNDim.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\CalculDiffNDim\CalculDiffNDim\obj\Debug\CalculDiffNDim.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\CalculDiffNDim\CalculDiffNDim\obj\Debug\CalculDiffNDim.exe
+C:\Users\benja\source\repos\CalculDiffNDim\CalculDiffNDim\obj\Debug\CalculDiffNDim.pdb
